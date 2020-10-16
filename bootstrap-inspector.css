@@ -5,6 +5,13 @@
   background: rgba(255,165,0,0.1) !important;
 }
 
+.breadcrumb {
+  border-style: dashed;
+  border-width: 2px;
+  border-color: gray;
+  background: rgba(128,128,128,0.1) !important;
+}
+
 .container-fluid {
   border-style: dashed;
   border-width: 2px;
