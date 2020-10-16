@@ -1,4 +1,4 @@
-div#container-fluid {
+.container-fluid {
   border-style: dashed;
   border-width: 2px;
   border-color: blueviolet;
