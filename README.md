@@ -19,6 +19,7 @@ z.B. so:
 <!-- <link rel="stylesheet" href="./assets/css/bootstrap-inspector.css"> -->
 ```
 
+Hier im Beispiel siehst Du ein paar kleine Fehler die ich mit dem Inspector ganz leicht gefunden hab:
 ![Vorschau Bild](https://github.com/dannerbam/bootstrap-inspector/blob/main/images/bootstrap-inspector.jpg?raw=true)
 
 Ich hoffe ich konnte Euch ein wenig Arbeit ersparen! ;-)
