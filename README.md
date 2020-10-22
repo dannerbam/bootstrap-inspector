@@ -24,3 +24,18 @@ Hier im Beispiel siehst Du ein paar kleine Fehler die ich mit dem Inspector ganz
 ![Vorschau Bild](https://github.com/dannerbam/bootstrap-inspector/blob/main/images/bootstrap-inspector.jpg?raw=true)
 
 Ich hoffe ich konnte Euch ein wenig Arbeit ersparen! ;-)
+
+
+## Versionsverlauf
+
+### V 01.01.02
+
++ .clollapse
++ .accordion
++ .accordion>.card>.card-header
+
+...um Collapse hervorzuheben
+
+### V 01.01.01
+
+erster Commit mit den wichtigsten Formatierungen
