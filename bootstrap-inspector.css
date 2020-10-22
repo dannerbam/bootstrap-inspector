@@ -26,6 +26,24 @@
   background: rgba(0,255,255,0.1) !important;
 }
 
+.accordion {
+  border-style: dashed;
+  border-width: 2px;
+  border-color: deeppink;
+  background: rgba(255,20,147,0.1) !important;
+}
+
+.accordion>.card>.card-header {
+  border-style: dashed;
+  border-width: 2px;
+  border-color: rgb(128, 69, 100);
+  background: rgba(128, 69, 100,0.1) !important;
+}
+
+.collapse {
+  background: rgba(255,20,147,0.1) !important;
+}
+
 .col-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xl-1  {
   border-style: dashed !important;
   border-width: 2px !important;
